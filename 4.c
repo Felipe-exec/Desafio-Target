@@ -6,4 +6,7 @@
 //Considerar 2 pedágios como obstáculo e que o caminhão leva 5 minutos a mais para passar em cada um deles e o carro possui tag de pedágio (Sem Parar)
 
 
-//não faço ideia de como resolver, talvez utilizando algumas fórmulas de física como DS = V x T saia algum resultado.
+//eu diria que o carro estaria mais próximo a cidade de Ribeirão Preto. 
+//CARRO => 100 = 110 x t => t = 0,9
+//CAMINHÃO => 100 = 80 x t => t = 1,25
+//Então, podemos dizer que o carro, independente de pedágio para ambos os veículos, é o que vai chegar primeiro.
